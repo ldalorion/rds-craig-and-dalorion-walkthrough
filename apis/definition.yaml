@@ -50,7 +50,7 @@ spec:
                       - medium
                       - large
                     description: |
-                      The machine size for this PostgreSQLInstance.
+                      The machine size.
                   storage:
                     type: integer
                     description: |
