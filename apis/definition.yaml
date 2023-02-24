@@ -26,7 +26,7 @@ spec:
           spec:
             type: object
             description: |
-              The specification for how this PostgreSQLInstance should be
+              The spec for how this PostgreSQLInstance should be
               deployed.
             properties:
               parameters:
